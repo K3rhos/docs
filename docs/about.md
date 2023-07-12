@@ -1,4 +1,4 @@
-# 👋 Welcome
+# Welcome
 
 Welcome to the new **CitizenIV Official Documentation**! 
 
