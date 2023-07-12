@@ -8,7 +8,7 @@ A step-by-step guide on setting up a Dedicated Server.
 
 * The server require an static ip address.
 * The server require port forwarding. A tutorial can be found [here](#port-forwarding).
-* The server require <a href="https://www.microsoft.com/en-us/download/details.aspx?id=30653" target="_blank">NET Framework 4.5</a>.
+* The server require [NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653).
 
 ### Installation
 
