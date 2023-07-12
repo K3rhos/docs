@@ -1,9 +1,3 @@
-﻿---
-slug: /
-sidebar_position: 1
-description: Welcome to the new CitizenIV Official Documentation!
----
-
 # 👋 Welcome
 
 Welcome to the new **CitizenIV Official Documentation**! 
