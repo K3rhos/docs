@@ -2,7 +2,7 @@
 
 Welcome to the new **CitizenIV Official Documentation**! 
 
-![](/img/main.jpg)
+![Main](https://raw.githubusercontent.com/K3rhos/docs/master/static/img/main.jpg)
 
 CitizenIV (formerly known as CitizenMP:IV) is a multiplayer modification for the 2008 PC port of Grand Theft Auto IV, which differs from other multiplayer modifications in that it doesn't **reimplement** networking frameworks, but **builds upon** the powerful framework by the Rockstar Studios, as also used in Max Payne 3 and Grand Theft Auto V.
 
