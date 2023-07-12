@@ -8,14 +8,14 @@ A step-by-step guide on setting up a Dedicated Server.
 
 * The server require an static ip address.
 * The server require port forwarding. A tutorial can be found [here](#port-forwarding).
-* The server require [NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653).
+* The server require [NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653){:target="_blank"}.
 
 ### Installation
 
 1. Create a new directory (for example `D:\Server`), this will be used for the server binaries.
-2. Download latest [server files](https://citizeniv.net/files/CitizenIV-Server.zip).
+2. Download latest [server files](https://citizeniv.net/files/CitizenIV-Server.zip){:target="_blank"}.
 3. Extract the build into the directory previously created.
-4. Download default resources from [GitHub](https://github.com/citizenfx-reloaded/server-data-beta) and extract them in the server directory.
+4. Download default resources from [GitHub](https://github.com/citizenfx-reloaded/server-data-beta){:target="_blank"} and extract them in the server directory.
 5. Change the server settings in the citmp-server.yml file.
 5. Run `CitizenMP.Server.exe`.
 
